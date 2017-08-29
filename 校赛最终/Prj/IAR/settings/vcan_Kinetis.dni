@@ -1,0 +1,57 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=218583888
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\线性CCD模块（可按键调试）\Chip\src\MK60_PIT.c" ""
+A1=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\线性CCD模块（可按键调试）\Chip\src\MK60_wdog.c" ""
+A2=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\线性CCD模块（可按键调试）\Chip\src\misc.c" ""
+A3=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\App\main.c" ""
+A4=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\Chip\src\IAR\system_MK60DZ10.c" ""
+A5=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\Chip\src\MK60_SysTick.c" ""
+A6=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\Chip\src\MK60_wdog.c" ""
+A7=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\Chip\src\misc.c" ""
+A8=_ "C:\Users\Tang\Desktop\k60\山外K60参考代码V5.3（支持FX、FN和DNZ）\书外的参考例程\LCD_线性CCD_无线传输\小车程序\Lib\CMSIS\Inc\core_cm4.h" ""
+Count=9
+SuppressDialog=0
