@@ -1,5 +1,5 @@
 2016 NCU intelligent car of photoelectric
-：  MadMax
+:  MadMax
 ![此处输入图片的描述][1]
 
 
